@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q/pcW3xzvFOERYGBlF+18aVT09tBeE3uf4NtUP+YhgXPY+GonjNqK5Z/s2RbpO8c+ZWOM8ATX3+EpOg87N3k2Q==",
+  "success": true,
+  "projectFilePath": "D:\\WorkspaceForWpf\\BingdingCommandTest\\BingdingCommandTest\\BingdingCommandTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\an981\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\an981\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}
